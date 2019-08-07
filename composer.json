@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stripe/stripe-php": "^6.39",
+        "braintree/braintree_php": "^4.2"
+    }
+}
